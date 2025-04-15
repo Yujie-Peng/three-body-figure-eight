@@ -13,5 +13,21 @@ The simulation was completed as the final project for PHYS5300. It demonstrates:
 
 ## 📁 Project Structure
 ```
-three_body_project/ ├── src/ # Python simulation & analysis scripts │ ├── three_body.py │ ├── plot_trajectories.py │ ├── track_diagnostics.py │ ├── compare_integrators.py │ └── animate_orbit.py ├── figures/ # Output plots │ ├── three_body_trajectory.png │ ├── energy_momentum_drift.png │ ├── rkf_vs_leapfrog_drift.png │ ├── trajectory_comparison.png │ └── three_body_frame.png ├── animations/ │ └── three_body_orbit.mp4 ├── progress_log.tex # Full LaTeX write-up of the project ├── requirements.txt # Python dependencies └── README.md
+three_body_project/ ├── src/ # Python simulation & analysis scripts
+│ ├── three_body.py
+│ ├── plot_trajectories.py
+│ ├── track_diagnostics.py
+│ ├── compare_integrators.py
+│ └── animate_orbit.py
+├── figures/ # Output plots
+│ ├── three_body_trajectory.png
+│ ├── energy_momentum_drift.png
+│ ├── rkf_vs_leapfrog_drift.png
+│ ├── trajectory_comparison.png
+│ └── three_body_frame.png
+├── animations/
+│ └── three_body_orbit.mp4
+├── progress_log.tex # Full LaTeX write-up of the project
+├── requirements.txt # Python dependencies
+└── README.md
 ```
