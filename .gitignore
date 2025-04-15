@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+
+# Output files
+*.mp4
+*.gif
+*.png
+*.log
+*.aux
+*.out
+*.pdf
+
+# Build folders
+build/
+dist/
+
+# Animation renders (if using manim)
+media/
+
+# LaTeX temp files
+*.synctex.gz
+*.fdb_latexmk
+*.fls
